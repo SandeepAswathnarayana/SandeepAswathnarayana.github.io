@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,3 +23,4 @@ He is an aspiring Deep Learning Researcher, currenlty working towards applying h
 * Make solar energy more efficient and affordable
 
 If you have a question about Kaggle, either post on the [Kaggle forums](kaggle.com/discussion) or contact me [via my Kaggle email address](mailto:rachael@kaggle.com). **I do not respond to work emails sent to my personal email.**
+

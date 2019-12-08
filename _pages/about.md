@@ -22,5 +22,3 @@ He is an aspiring Deep Learning Researcher, currenlty working towards applying h
 * Engineer better medicines
 * Make solar energy more efficient and affordable
 
-If you have a question about Kaggle, either post on the [Kaggle forums](kaggle.com/discussion) or contact me [via my Kaggle email address](mailto:rachael@kaggle.com). **I do not respond to work emails sent to my personal email.**
-

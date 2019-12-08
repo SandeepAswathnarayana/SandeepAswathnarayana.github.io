@@ -12,15 +12,15 @@ Sandeep Aswathnarayana was born in [Kolar Gold Fields](https://en.wikipedia.org/
 As the Graduate Research Assistant for the [Office of Development & External Affairs](https://www.smu.edu/Law/Department-Directory/Dean-s-Office) at SMU, he was responsible for R&D, facilitating Alumni projects by working alongside the Dean, Director of External Relations, Director of Marketing and Dean of Student Affairs.
 Sandeep had been working on his Research Thesis in Data Science & Statistical Analysis at SMU, Dallas; balancing both work and study. He has successfully integrated working on his thesis project by gathering insights from his mentors, professors, and peers.
 
-He is an aspiring Deep Learning Researcher, currenlty working towards applying my R&D specialty in areas including, but not limited to, Healthcare and Renewable Energy.
+He is an aspiring Deep Learning Researcher, currenlty working towards applying his R&D specialty in areas including, but not limited to, Healthcare and Renewable Energy.
 
-Other Grand Engineering Challenges That Interest Me:
-Provide energy from fusion
-Manage the nitrogen cycle
-Provide access to clean water
-Carbon sequestration methods
-Engineer better medicines
-Make solar energy more efficient and affordable.
+Other Grand Engineering Challenges That Interest him:
+* Provide energy from fusion
+* Manage the nitrogen cycle
+* Provide access to clean water
+* Carbon sequestration methods
+* Engineer better medicines
+* Make solar energy more efficient and affordable
 
 the Posts and Telecommunications Institute of Technology (PTIT), Vietnam, in 2012. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
